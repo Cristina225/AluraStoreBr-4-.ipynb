@@ -14,7 +14,9 @@ Analisar e comparar as lojas da rede Alura Store com base em métricas como:
 📂 Estrutura do projeto
 
 *ChallengeAlura_1.ipynb: Notebook principal com toda a análise e visualizações
+
 *Gráficos de pizza, barras e tabelas formatadas para apoiar a tomada de decisão
+
 *Comparações detalhadas entre as loja
 
 🛠️ Tecnologias Utilizadas
