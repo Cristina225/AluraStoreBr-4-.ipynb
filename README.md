@@ -19,6 +19,7 @@ Analisar e comparar as lojas da rede Alura Store com base em métricas como:
 
 *Comparações detalhadas entre as loja
 
+
 🛠️ Tecnologias Utilizadas
 
 *Python
@@ -28,6 +29,7 @@ Analisar e comparar as lojas da rede Alura Store com base em métricas como:
 *Matplotlib / Seaborn
 
 *Jupyter Notebook
+
 
 🔎 Principais Análises
 
@@ -42,16 +44,24 @@ Analisar e comparar as lojas da rede Alura Store com base em métricas como:
 
 *Categorias de Produtos: ranking das categorias com maior volume de vendas
 
+
 ✅ Conclusão
 
 Com base na análise de todas as métricas apresentadas, recomenda-se a venda da Loja 4:
+
 *Menor faturamento total
+
 *Menor volume de vendas por categoria
+
 *Pior avaliação média dos clientes
+
 *Maior custo médio de frete
+
 *Produto menos vendido com pouca atratividade
 
+
 🔎 Observações
+
 Os dados foram fornecidos pela Alura como parte de um desafio de ciência de dados.
 
 O foco está na interpretação dos dados e apresentação visual de maneira clara e objetiva.
